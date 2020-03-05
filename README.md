@@ -1,4 +1,4 @@
 # Unity Template
-Unity Template Repo
+Azure Kinect project for fun experimentation.
 
-**Unity Version**: 20XX.X
+**Unity Version**: 2019.3
